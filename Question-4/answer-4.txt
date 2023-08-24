@@ -1,0 +1,39 @@
+Technology Name: jQuery
+Regex Pattern: jquery[.-]?\d+\.\d+
+Sample Website: https://www.wikipedia.org/
+
+Technology Name: React.js
+Regex Pattern: ['"]react(-dom)?\.min\.js['"]
+Sample Website: https://www.airbnb.com/
+
+Technology Name: WooCommerce
+Regex Pattern: woocommerce\/assets\/
+Sample Website: https://shop.lululemon.com/
+
+Technology Name: Bootstrap
+Regex Pattern: bootstrap(\.min)?\.css
+Sample Website: https://getbootstrap.com/
+
+Technology Name: Shopify
+Regex Pattern: cdn\.shopify\.com
+Sample Website: https://www.gymshark.com/
+
+Technology Name: Next.js
+Regex Pattern: next\.js\/
+Sample Website: https://vercel.com/
+
+Technology Name: Materialize CSS
+Regex Pattern: materialize(\.min)?\.css
+Sample Website: https://materializecss.com/
+
+Technology Name: PHP
+Regex Pattern: \.php[?/]?
+Sample Website: https://wordpress.com/
+
+Technology Name: Python
+Regex Pattern: ['"]Python\/\d+\.\d+
+Sample Website: https://www.python.org/
+
+Technology Name: Google Maps
+Regex Pattern: maps\.googleapis\.com
+Sample Website: https://www.uber.com/
